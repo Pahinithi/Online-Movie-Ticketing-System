@@ -19,3 +19,6 @@ Pahirathan Nithilan: (https://github.com/Pahinithi)
 T.Viploon: (https://github.com/vipoolan)
 T.Akulapiriyan: (https://github.com/Piriyan98)
 W.Robina: (https://github.com/2001-01-01)
+
+
+User Guide: https://github.com/Pahinithi/Online-Movie-Ticketing-System/tree/main/User%20guide
