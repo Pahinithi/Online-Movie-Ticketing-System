@@ -48,10 +48,7 @@ If you encounter any issues or would like to contribute, please open an issue or
 ## Created By
 Pahirathan Nithilan: (https://github.com/Pahinithi)
 
-## modified by
-T.Viploon: (https://github.com/vipoolan)
-T.Akulapiriyan: (https://github.com/Piriyan98)
-W.Robina: (https://github.com/2001-01-01)
+
 
 ## User Guide
 
